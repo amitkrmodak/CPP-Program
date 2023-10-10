@@ -21,7 +21,7 @@ void fact::cal(void)
 }
 void fact::output(void)
 {
-	cout<<"The Factorial of"<< n <<"is"<<m;
+	cout<<"The Factorial of"<< n <<"is ="<< m;
 }
 
 int main()
